@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<current>
+  <city id="3601782" name="San Pedro Sula">
+    <coord lon="-88.03" lat="15.5"/>
+    <country>HN</country>
+    <sun rise="2014-12-11T12:08:56" set="2014-12-11T23:22:25"/>
+  </city>
+  <temperature value="294.15" min="294.15" max="294.15" unit="kelvin"/>
+  <humidity value="100" unit="%"/>
+  <pressure value="1021" unit="hPa"/>
+  <wind>
+    <speed value="2.1" name="Light breeze"/>
+    <direction value="160" code="SSE" name="South-southeast"/>
+  </wind>
+  <clouds value="75" name="broken clouds"/>
+  <visibility/>
+  <precipitation mode="no"/>
+  <weather number="803" value="broken clouds" icon="04d"/>
+  <lastupdate value="2014-12-11T15:00:00"/>
+</current>
+

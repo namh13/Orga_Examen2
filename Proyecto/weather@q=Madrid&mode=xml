@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<current>
+  <city id="3117735" name="Madrid">
+    <coord lon="-3.7" lat="40.42"/>
+    <country>ES</country>
+    <sun rise="2014-12-11T07:28:02" set="2014-12-11T16:48:27"/>
+  </city>
+  <temperature value="286.15" min="286.15" max="286.15" unit="kelvin"/>
+  <humidity value="54" unit="%"/>
+  <pressure value="1028" unit="hPa"/>
+  <wind>
+    <speed value="0.5" name="Calm"/>
+    <direction value="0" code="N" name="North"/>
+  </wind>
+  <clouds value="0" name="clear sky"/>
+  <visibility/>
+  <precipitation mode="no"/>
+  <weather number="800" value="Sky is Clear" icon="01d"/>
+  <lastupdate value="2014-12-11T14:30:00"/>
+</current>
+
